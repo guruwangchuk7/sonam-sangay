@@ -1,1 +1,1 @@
-# sonam-sangay
+# Mini Project
